@@ -8,7 +8,7 @@ import tests.utilities.Driver;
 import tests.utilities.ReusableMethods;
 
 
-public class C03 {
+public class C03DAtaProvider {
 
 
     /*
