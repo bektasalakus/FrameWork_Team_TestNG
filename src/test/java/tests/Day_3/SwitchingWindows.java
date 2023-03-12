@@ -27,7 +27,7 @@ public class SwitchingWindows {
         //● Bir önceki pencereye geri döndükten sonra sayfa başlığının “The Internet” olduğunu doğrulayın.
 
 
-        Driver.quitDriver();
+        //Driver.quitDriver();
 
 
     }

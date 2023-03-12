@@ -28,6 +28,8 @@ public class ConfigReaderKullanim {
         Assert.assertTrue(actualAramaSonucYazisi.contains(expectedIcerik));
 
         Driver.closeDriver();
+        //hocam firefox dami calistirmak istiyorsunuz
+        // hayır hocam chromde çalıştırdım her zaman firefox yüklü değil
 
     }
 }
