@@ -19,6 +19,7 @@ public class dataProvider {
                 {"ahmet@hotmail.com", "nevzat151515151515"},
                 {"celik@hotmail.com", "nevzat151515151515"},
                 {"anevzatcelik@gmail.com", "Nevzat152032"}};
+
         return gonderilecekMailvePassword;
     }
 
